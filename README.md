@@ -1,6 +1,6 @@
 # Building Financial Statements with SQL
 
-This project was part of the Data Management & SQL course in MsBA program at Hult International Business School. The project aimed to build SQL queries and insert results into such queries to create the Profit and Loss (P&L) and Balance Sheet (B/S) statements. The accounting database was provided by the instructor in which derived from the existing company in the real world. The database contains multiple tables as shown in the ER Diagram.
+This project was part of the Data Management & SQL course in MsBA program at Hult International Business School. The project aimed to build SQL queries and insert results into such queries to create the Profit and Loss (P&L) and Balance Sheet (B/S) statements. The accounting database derived from the company in the real world was given access by the instructor. The database contains multiple tables as shown in the ER Diagram.
 
 **Course Description**
 
