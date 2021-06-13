@@ -10,3 +10,5 @@ This course will offer an overview of relational databases, methodologies for se
 and the use of comparison operators to combine multiple data criteria. Additional topics include the use of aggregate functions and sorting, 
 grouping, and joins will also be introduced. Students will also develop basic applied proficiency in using Structured Query Language, or SQL, 
 which is a standard database management language widely used for manipulation of data in relational databases, and is particularly helpful in retrieving data from their native environments.
+
+---------------------------------------------------------------------------------------------------------------------------------
